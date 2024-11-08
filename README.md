@@ -11,7 +11,7 @@ Osu Dataset of ALL Beatmaps from 2007 to today
 - 5 million raws
 
 ## Status of progress
-- Code : 90% ( Need to improve the order of the beat map in the csv and Recording during voluntary and involuntary interruption)
+- Code : 90% ( Need to improve the order of the beatmap in the csv and Recording during voluntary and involuntary interruption)
 - Dataset : test phase
 
 ## Objectives 

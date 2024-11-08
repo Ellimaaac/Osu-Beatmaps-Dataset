@@ -12,3 +12,4 @@ Osu Dataset of ALL Beatmaps from 2007 to today
 
 ## Status of progress
 - Code : 90% ( Need to improve the order of the beat map in the csv and Recording during voluntary and involuntary interruption)
+- Dataset : test phase

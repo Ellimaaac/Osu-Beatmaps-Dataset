@@ -13,10 +13,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - 5 million raws
 
 ## Status of progress
-- Code : 80%
-    - Issue with some taiko beatmaps
-    - Issue with the maps states
-    - Issue with likes
+- Code Operational
 - Dataset : test phase - 16k data (0,3 %  of the final data set)
 
 ## Objectives 

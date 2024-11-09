@@ -11,7 +11,7 @@ Osu Dataset of ALL Beatmaps from 2007 to today
 - 5 million raws
 
 ## Status of progress
-- Code : 90%
+- Code : 80%
     - Issue with some taiko beatmaps
     - Issue with the maps states
     - Issue with likes

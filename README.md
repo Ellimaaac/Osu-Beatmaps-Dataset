@@ -18,3 +18,5 @@ Osu Dataset of ALL Beatmaps from 2007 to today
 - Dataset : test phase - 16k data (0,3 %  of the final data set)
 
 ## Objectives 
+
+## LICENCE

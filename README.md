@@ -20,4 +20,4 @@ Osu Dataset of ALL Beatmaps from 2007 to today
 ## Objectives 
 
 ## License
-CC-BY-NC-SA.txt
+CC-BY-NC-SA

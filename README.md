@@ -13,7 +13,8 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - 5 million raws
 
 ## Status of progress
-- Code Operational
+- ⚠ Code Operational :
+  - Issue : Take into account the first gamemode and mot the other (if there is/are)
 - Dataset : test phase - 16k data (0,3 %  of the final data set)
 
 ## Objectives 

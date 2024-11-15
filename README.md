@@ -14,9 +14,9 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 
 ## Status of progress
 - ⚠ Code Operational :
-  - Issue : Take into account the first gamemode and not the others (if there is/are) (2024-11-15)
+  - Issue : Take into account the first gamemode and not the others (if there is/are) (2024-11-16)
 - Dataset : test phase - 16k data (0,3 %  of the final data set) (2024-11-9)
-- Dataset 2 : new (because of the issue) test phase - 30k beatmaps (2024-11-15)
+- Dataset 2 : new (because of the issue) test phase - 30k beatmaps (2024-11-16)
   
 
 ## Objectives 

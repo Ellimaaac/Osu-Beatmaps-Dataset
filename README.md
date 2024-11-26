@@ -10,7 +10,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 
 
 - 22 features 
-- 5 million raws
+- 5 million beatmaps (estimation +20M raws)
 
 ## Status of progress
 - ⚠ Code Operational :

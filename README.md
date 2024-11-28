@@ -20,6 +20,9 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - Dataset 2 : new (because of the issue) test phase - 30k beatmaps (2024-11-16)
 - Next Dataset (2024-12-07)
 
+## Updates & Modification
+Differences between test 2 and the last one.
+
 
 ## License
 CC-BY-NC-SA

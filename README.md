@@ -23,6 +23,9 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 ## Updates & Modification
 Differences between test 2 and the last one.
 
+| test 2 | last one |
+| --- | --- |
+|<img src="img/test2.png" width="750" > | <img src="img/test3.png" width="600" > |
 
 ## License
 CC-BY-NC-SA

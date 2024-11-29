@@ -24,7 +24,21 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - Next Dataset (2024-12-07)
 
 ## Updates & Modification
-Differences between test 2 and the last one.
+there is a HUGE size difference between test 2 and the last one.  Based on my data :
+
+### test 2
+
+| Beatmaps extract  | Num.Raws  | Percentage | Size (Mo) | Estimated size (Mo) |
+|--------|-------|-------------|-------------|---------------------|
+| 29484  | 55446 | 0,58968     | 10,2        | 1729,75173          |
+
+### last one
+
+| Beatmaps extract | Raws  | Percentage | Size (Mo) | Estimated size (Mo) |
+|-------|-------|-------------|-------------|---------------------|
+| 4035  | 25719 | 0,0807      | 5           | 6195,786865         |
+
+
 
 test 2   
 

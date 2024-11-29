@@ -49,4 +49,4 @@ last one
 <img src="img/test3.png" width="800"> 
 
 
-Before this code update I was able to extract 1k beatmaps per hour, now it's about 300 per hour. It will take some time.
+**Before this code update I was able to extract 1k beatmaps per hour, now it's about 300 per hour. It will take some time.**

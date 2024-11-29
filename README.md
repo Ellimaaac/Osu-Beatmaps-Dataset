@@ -26,7 +26,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 ## Updates & Modification
 there is a HUGE size difference between test 2 and the last one.  Based on my data :
 
-### test 2
+### Dataset 2
 
 | Numkber of Beatmaps extract  | Numbers of Raws  | Percentage | Size (Mo) | Estimated size (Mo) |
 |--------|-------|-------------|-------------|---------------------|

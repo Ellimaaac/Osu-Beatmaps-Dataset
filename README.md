@@ -24,7 +24,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - Next Dataset (2024-12-07)
 
 ## Updates & Modification
-there is a HUGE size difference between test 2 and the last one.  Based on my data :
+There is a HUGE size difference between test 2 and the last one.  Based on my data :
 
 ### Dataset 2
 
@@ -48,3 +48,5 @@ last one
 
 <img src="img/test3.png" width="800"> 
 
+
+Before this code update I was able to extract 1k beatmaps per hour, now it's about 300 per hour. It will take some time.

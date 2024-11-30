@@ -30,14 +30,14 @@ There is a HUGE size difference between test 2 and the last one.  Based on my da
 
 ### Dataset 2
 
-| Numkber of Beatmaps extract  | Numbers of Raws  | Percentage | Size (Mo) | Estimated size (Mo) |
+| Numkber of Beatmaps extract  | Numbers of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |--------|-------|-------------|-------------|---------------------|
-| 29484  | 55446 | 0,58968     | 10,2        | 1729,75173          |
+| 29484  | 55446 | 0,58968     | 10,2        | 1,7         |
 
 ### Actual one
 
-| Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Mo) |
+| Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|
-| 4035  | 25719 | 0,0807      | 5           | 6195,786865         |
+| 6100  | 49780 | 0,12      | 7,8           | 6,4         |
 
 **Before this code update I was able to extract 1k beatmaps per hour, now it's about 200 per hour. It will take some time.**

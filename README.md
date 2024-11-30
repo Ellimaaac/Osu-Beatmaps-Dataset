@@ -19,6 +19,8 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - ⚠ Code Operational :
   - Issue : Take into account the first gamemode and not the others (if there is/are) (2024-11-16)
   - Testing code (2024-11-27 to 2024-11-30)
+  - Issue : Explicit content management. SOme beatmaps has an explicit content page before accessing the main page (2024-11-30)
+  - Testing code (2024-11-30)
 - Dataset : test phase - 16k data (0,3 %  of the final data set) (2024-11-9)
 - Dataset 2 : new (because of the issue) test phase - 30k beatmaps (2024-11-16)
 - Next Dataset (2024-12-07)

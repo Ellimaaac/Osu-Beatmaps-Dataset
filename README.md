@@ -40,4 +40,4 @@ There is a HUGE size difference between test 2 and the last one.  Based on my da
 |-------|-------|-------------|-------------|---------------------|
 | 4035  | 25719 | 0,0807      | 5           | 6195,786865         |
 
-**Before this code update I was able to extract 1k beatmaps per hour, now it's about 300 per hour. It will take some time.**
+**Before this code update I was able to extract 1k beatmaps per hour, now it's about 200 per hour. It will take some time.**

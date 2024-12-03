@@ -30,7 +30,7 @@ There is a HUGE size difference between test 2 and the last one.  Based on my da
 
 ### Dataset 2
 
-| Numkber of Beatmaps extract  | Numbers of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
+| Number of Beatmaps extract  | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |--------|-------|-------------|-------------|---------------------|
 | 29484  | 55446 | 0,58968     | 10,2        | 1,7         |
 

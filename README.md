@@ -38,6 +38,6 @@ There is a HUGE size difference between test 2 and the last one.  Based on my da
 
 | Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|
-| 6100  | 49780 | 0,12      | 7,8           | 6,4         |
+| 10302  | 72111 | 0,21      | 14          | 6,79         |
 
 **Before this code update I was able to extract 1k beatmaps per hour, now it's about 200 per hour. It will take some time.**

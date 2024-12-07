@@ -10,10 +10,10 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 |----------------------|-----------|----------|------------------|----------------|------------------|-----------|-------|--------|-----------|-------|--------|-----|--------------|--------------|-------------|----------|----------|---------------|-------------|-----------|-----|-------------|
 | Vois sur ton Chemin | Bennett   | ELLIMAC  | 23 Sep 2024     | Non Ranked     | Graveyard        | ...         | Other | French | 54        | 0     | 2:54   | 220 | 578          | 196          | 4           | 5        | 8        | 9             | 6.27        | osu!     | https://osu.ppy.sh/beatmapsets/2254185  | Insane      |
 
-
-
-- 22 features 
+- 23 features 
 - 5 million beatmaps (estimation +20M raws)
+
+**The dataset is split into 100k raws due to the size limit. Each will be named: date_beatmap_info_n.csv and date_beatmap_info_n+1.csv.**
 
 ## Status of progress
 - **⚠ Code Operational :**
@@ -28,13 +28,13 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 ## Updates & Modification
 There is a HUGE size difference between test 2 and the last one.  Based on my data :
 
-### Dataset 2
+### Dataset test 2024-11-16
 
 | Number of Beatmaps extract  | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |--------|-------|-------------|-------------|---------------------|
 | 29484  | 55446 | 0,58968     | 10,2        | 1,7         |
 
-### Actual one
+### Actual Dataset
 
 | Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|

@@ -23,7 +23,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
   - Testing code (2024-11-30)
 - Dataset : test phase - 16k data (0,3 %  of the final data set) (2024-11-9)
 - Dataset 2 : new (because of the issue) test phase - 30k beatmaps (2024-11-16)
-- Next Dataset (2024-12-07)
+
 
 ## Updates & Modification
 There is a HUGE size difference between test 2 and the last one.  Based on my data :

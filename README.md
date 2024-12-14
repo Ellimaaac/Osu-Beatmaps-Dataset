@@ -26,18 +26,11 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 
 
 ## Updates & Modification
-There is a HUGE size difference between test 2 and the last one.  Based on my data :
-
-### Dataset test 2024-11-16
-
-| Number of Beatmaps extract  | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
-|--------|-------|-------------|-------------|---------------------|
-| 29484  | 55446 | 0,58968     | 10,2        | 1,7         |
 
 ### Actual Dataset
 
 | Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|
-| 18642  | 131617 | 0,37 | 25,9  | 6,95         |			
+| 29999  | 205658	 | 0,60 | 40,7  | 6,78         |			
 
 **Before this code update I was able to extract 1k beatmaps per hour, now it's about 200 per hour. It will take some time.**

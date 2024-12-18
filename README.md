@@ -20,7 +20,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 ## Status of progress
 - **⚠ Code Operational :**
   - **Issue** : 0
-- 2024-12-21 : Hoping 60k
+- 2024-12-21 Dataset : Hoping 60k beatmaps
 
 ---
 

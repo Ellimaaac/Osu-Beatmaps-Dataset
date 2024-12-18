@@ -1,9 +1,10 @@
 # Osu-Beatmaps-Dataset
 Osu Dataset of ALL Beatmaps from 2007 to today 
----
+
 ## License
 CC-BY-NC-SA
----
+
+
 Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-all-beatmaps-from-2007-to-today)
 
 | Titre                | Artiste   | Mapper   | Date de création | Date de ranked | État de la carte | Nominator | Genre | Langue | Playcount | Likes | Length | BPM | Circle Count | Slider Count | Circle Size | HP Drain | Accuracy | Approach Rate | Star Rating | Game Mode | URL | Difficultés |
@@ -14,6 +15,7 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 - 5 million beatmaps (estimation +20M raws)
 
 **The dataset is split into 100k raws due to the size limit. Each will be named: date_beatmap_info_n.csv and date_beatmap_info_n+1.csv.**
+
 ---
 ## Status of progress
 - **⚠ Code Operational :**

@@ -36,6 +36,6 @@ Available in [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-a
 
 | Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|
-| 29999  | 205658	 | 0,60 | 40,7  | 6,78         |			
+| 59200  | 350k	 | 1.9 | 72 | 3.5        |			
 
 **Before this code update I was able to extract 1k beatmaps per hour, now it's about 200 per hour. It will take some time.**

@@ -24,7 +24,7 @@ CC-BY-NC-SA
 ## Status of progress
 - **⚠ Code Operational :**
   - **Issue** : 0
-- 2024-12-21 Dataset : Hoping 60k beatmaps
+- 2024-12-21 Dataset : 59k beatmaps
 
 ---
 

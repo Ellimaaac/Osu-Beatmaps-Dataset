@@ -7,6 +7,8 @@ All new updates will only be available on [Kaggle](https://www.kaggle.com/datase
 ###  License
 CC-BY-NC-SA
 
+---
+
 ## Info
 
 | Titre                | Artiste   | Mapper   | Date de création | Date de ranked | État de la carte | Nominator | Genre | Langue | Playcount | Likes | Length | BPM | Circle Count | Slider Count | Circle Size | HP Drain | Accuracy | Approach Rate | Star Rating | Game Mode | URL | Difficultés |

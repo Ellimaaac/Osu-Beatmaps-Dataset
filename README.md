@@ -2,7 +2,7 @@
 Osu Dataset of ALL Beatmaps from 2007 to today 
 
 ## Warning
-All new updates will only be available on [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-all-beatmaps-from-2007-to-today)
+**All new updates will only be available on [Kaggle](https://www.kaggle.com/datasets/ellimaaac/osu-dataset-of-all-beatmaps-from-2007-to-today)**
 
 ###  License
 CC-BY-NC-SA

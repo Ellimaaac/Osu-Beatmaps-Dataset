@@ -39,6 +39,6 @@ CC-BY-NC-SA
 
 | Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|
-| +99999  | 350k	 | 1.9 | 72 | 3.5        |			
+| +99999  | 	 |  |  |         |			
 
 **Before this code update I was able to extract 1k beatmaps per hour, now it's about 200 per hour. It will take some time.**

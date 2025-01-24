@@ -26,7 +26,7 @@ CC-BY-NC-SA
   - **Update** : include beatmap picture (on going)
 - 2024-12-21 Dataset : 59k beatmaps
 - 2025-01-11 Dataset : 99k beatmaps
-- 2025-01-25 Dataset : 
+- 2025-01-25 Dataset : 200k beatmaps
 
 ---
 

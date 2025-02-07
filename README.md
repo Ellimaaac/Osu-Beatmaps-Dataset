@@ -26,7 +26,7 @@ CC-BY-NC-SA
   - **Update** : include beatmap picture (on going)
 - 2024-12-21 Dataset : 59k beatmaps
 - 2025-01-11 Dataset : 99k beatmaps
-- 2025-01-25 Dataset : 200k beatmaps
+- 2025-02-07 Dataset : 165k beatmaps
 
 ---
 
@@ -42,4 +42,4 @@ CC-BY-NC-SA
 
 | Number of Beatmaps extract | Number of Raws  | Percentage | Size (Mo) | Estimated size (Go) |
 |-------|-------|-------------|-------------|---------------------|
-| 200k  | +700k	 | 6,67 |  |   2,5      |			
+| 165k  | +684k	 | 6,67 | 131 |   2      |			
